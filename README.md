@@ -1,9 +1,11 @@
 ## Title of the Project
-
+Intelligent Audio Sensitivity and Emotion Detection for Neurodevelopmental Support Systems
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+EmoSense is an AI-driven web-based assistive learning system designed to support children with neurodevelopmental conditions, primarily Autism Spectrum Disorder (ASD). The project focuses on improving emotional understanding and sensory awareness through real-time facial emotion recognition and intelligent audio sensitivity analysis.
+
+Traditional emotional learning methods rely on manual observation and static learning tools, which lack real-time interaction and measurable feedback. EmoSense addresses these limitations by using deep learning–based emotion detection, emoji-based visual learning, structured response tracking, and automated progress reporting for parents and caregivers.
 
 ## Features
 <!--List the features of the project as shown below-->
