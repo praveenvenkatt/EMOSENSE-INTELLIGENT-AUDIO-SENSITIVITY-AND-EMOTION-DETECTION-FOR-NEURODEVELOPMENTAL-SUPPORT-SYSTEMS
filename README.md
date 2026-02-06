@@ -28,7 +28,8 @@ Traditional emotional learning methods rely on manual observation and static lea
 
 ## System Architecture
 
-<img width="1349" height="798" alt="{FB66BC04-20E5-45A0-85D9-4E6A37C38FA2}" src="https://github.com/user-attachments/assets/f71de241-89d5-4100-90ba-9c14c7cc4f16" />
+<img width="1322" height="750" alt="{2A4B1A8E-809D-47A0-A1AF-B4C81EDDDF2B}" src="https://github.com/user-attachments/assets/8b75aedc-faa2-4e16-81e1-e09e3c42f12a" />
+
 
 
 
