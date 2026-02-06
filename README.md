@@ -2,24 +2,25 @@
 Intelligent Audio Sensitivity and Emotion Detection for Neurodevelopmental Support Systems
 
 ## About
-<!--Detailed Description about the project-->
+
 EmoSense is an AI-driven web-based assistive learning system designed to support children with neurodevelopmental conditions, primarily Autism Spectrum Disorder (ASD). The project focuses on improving emotional understanding and sensory awareness through real-time facial emotion recognition and intelligent audio sensitivity analysis.
 
 Traditional emotional learning methods rely on manual observation and static learning tools, which lack real-time interaction and measurable feedback. EmoSense addresses these limitations by using deep learning–based emotion detection, emoji-based visual learning, structured response tracking, and automated progress reporting for parents and caregivers.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+- Real-time facial emotion recognition using InceptionV3 (CNN)
+- Interactive emoji-based emotional learning interface
+- Multi-attempt response tracking with automated evaluation
+- Intelligent audio sensitivity detection through facial reaction monitoring
+- Automated email-based progress report generation
+- Scalable and web-based deployment architecture
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
+* Operating System: Requires a 64-bit OS (Windows 10) for compatibility with deep learning frameworks.
+* Development Environment: Python 3.10 or later is necessary for coding the sign language detection system.
+* Deep Learning Frameworks: TensorFlow for model training
 * Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
 * Version Control: Implementation of Git for collaborative development and effective code management.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
