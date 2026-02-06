@@ -59,26 +59,28 @@ The system improves emotional understanding, sensory awareness, and parent–chi
 [1]    M. A. Rashidan et al., "Technology-Assisted Emotion Recognition for Autism Spectrum Disorder 
 (ASD) Children: A Systematic Literature Review," in IEEE Access, vol. 9, pp. 33638-33653, 2021, 
 doi: 10.1109/ACCESS.2021.3060753. 
+
 [2]    Y. -L. Chien et al., "Game-Based Social Interaction Platform for Cognitive Assessment of Autism 
 Using Eye Tracking," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 
 31, pp. 749-758, 2023, doi: 10.1109/TNSRE.2022.3232369.  
-[3]    
-K. D. Bartl-Pokorny et al., "Robot-Based Intervention for Children With Autism Spectrum 
+
+[3]    K. D. Bartl-Pokorny et al., "Robot-Based Intervention for Children With Autism Spectrum 
 Disorder: A Systematic Literature Review," in IEEE Access, vol. 9, pp. 165433-165450, 2021, doi: 
 10.1109/ACCESS.2021.3132785. 
-[4]    
-V. G. Prakash et al., "Computer Vision-Based Assessment of Autistic Children: Analyzing 
+
+[4]    V. G. Prakash et al., "Computer Vision-Based Assessment of Autistic Children: Analyzing 
 Interactions, Emotions, Human Pose, and Life Skills," in IEEE Access, vol. 11, pp. 47907-47929, 2023, 
 doi: 10.1109/ACCESS.2023.3269027. 
-[5]     
-A. Kurian and S. Tripathi, "m_AutNet–A Framework for Personalized Multimodal Emotion 
+
+[5]     A. Kurian and S. Tripathi, "m_AutNet–A Framework for Personalized Multimodal Emotion 
 Recognition in Autistic Children," in IEEE Access, vol. 13, pp. 1651-1662, 2025, doi: 
 10.1109/ACCESS.2024.3403087.   
+
 [6]   H. Dong, D. Chen, L. Zhang, H. Ke, and X. J. Li, “Subject sensitive EEGdiscrimination with fast 
 reconstructable CNN driven by reinforcementlearning: A case study of ASD evaluation,” 
 Neurocomputing, vol. 449,pp. 136–145, Aug. 2021, doi: 10.1016/j.neucom.2021.04.009. 
-[7]    
-M. Ranjani and P. Supraja, “Classifying the autism and epilepsy disorderbased on EEG signal 
+
+[7]    M. Ranjani and P. Supraja, “Classifying the autism and epilepsy disorderbased on EEG signal 
 using deep convolutional neural network (DCNN),”in Proc. Int. Conf. Advance Comput. Innov. 
 Technol. Eng. (ICACITE),Mar. 2021, pp. 880–886
 
