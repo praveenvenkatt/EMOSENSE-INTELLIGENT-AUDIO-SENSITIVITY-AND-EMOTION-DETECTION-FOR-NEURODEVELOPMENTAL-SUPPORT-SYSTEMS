@@ -1,6 +1,8 @@
 ## Title of the Project
 Intelligent Audio Sensitivity and Emotion Detection for Neurodevelopmental Support Systems
 
+An AI-driven assistive system that integrates real-time facial emotion detection and audio sensitivity analysis for neurodevelopmental support.
+
 ## About
 
 EmoSense is an AI-driven web-based assistive learning system designed to support children with neurodevelopmental conditions, primarily Autism Spectrum Disorder (ASD). The project focuses on improving emotional understanding and sensory awareness through real-time facial emotion recognition and intelligent audio sensitivity analysis.
