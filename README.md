@@ -24,37 +24,63 @@ Traditional emotional learning methods rely on manual observation and static lea
 * Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
 * Version Control: Implementation of Git for collaborative development and effective code management.
 * IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1349" height="798" alt="{FB66BC04-20E5-45A0-85D9-4E6A37C38FA2}" src="https://github.com/user-attachments/assets/f71de241-89d5-4100-90ba-9c14c7cc4f16" />
+
 
 
 ## Output
+#### Output1 - Home Page
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+<img width="1189" height="728" alt="{F5E4CB6B-B1D3-40E2-BC1C-E59C926133DD}" src="https://github.com/user-attachments/assets/a06078c0-57e5-4f52-b541-6be8b6efadf1" />
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Emotion Detection Output
+<img width="981" height="536" alt="{E42B5CF7-DB96-4DF2-A7A8-F3D245D18450}" src="https://github.com/user-attachments/assets/4f6d7955-16df-47da-badc-fbc64e5c3fe0" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
+#### Output3 - Emotion Selection Interface
+<img width="985" height="548" alt="{8669E33B-9377-4C94-A78D-0C4E673133A4}" src="https://github.com/user-attachments/assets/bcbe4663-c6c8-42c8-8bdb-ddf8e8fb3e58" />
+
+## Model Performance
+Training Accuracy: 95-97%.
+(Based on FER2013 dataset and InceptionV3 transfer learning)
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The system improves emotional understanding, sensory awareness, and parent–child interaction using AI-driven analysis. EmoSense supports inclusive learning and provides data-driven insights for caregivers and educators in neurodevelopmental support.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1]    M. A. Rashidan et al., "Technology-Assisted Emotion Recognition for Autism Spectrum Disorder 
+(ASD) Children: A Systematic Literature Review," in IEEE Access, vol. 9, pp. 33638-33653, 2021, 
+doi: 10.1109/ACCESS.2021.3060753. 
+[2]    Y. -L. Chien et al., "Game-Based Social Interaction Platform for Cognitive Assessment of Autism 
+Using Eye Tracking," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 
+31, pp. 749-758, 2023, doi: 10.1109/TNSRE.2022.3232369.  
+[3]    
+K. D. Bartl-Pokorny et al., "Robot-Based Intervention for Children With Autism Spectrum 
+Disorder: A Systematic Literature Review," in IEEE Access, vol. 9, pp. 165433-165450, 2021, doi: 
+10.1109/ACCESS.2021.3132785. 
+[4]    
+V. G. Prakash et al., "Computer Vision-Based Assessment of Autistic Children: Analyzing 
+Interactions, Emotions, Human Pose, and Life Skills," in IEEE Access, vol. 11, pp. 47907-47929, 2023, 
+doi: 10.1109/ACCESS.2023.3269027. 
+[5]     
+A. Kurian and S. Tripathi, "m_AutNet–A Framework for Personalized Multimodal Emotion 
+Recognition in Autistic Children," in IEEE Access, vol. 13, pp. 1651-1662, 2025, doi: 
+10.1109/ACCESS.2024.3403087.   
+[6]   H. Dong, D. Chen, L. Zhang, H. Ke, and X. J. Li, “Subject sensitive EEGdiscrimination with fast 
+reconstructable CNN driven by reinforcementlearning: A case study of ASD evaluation,” 
+Neurocomputing, vol. 449,pp. 136–145, Aug. 2021, doi: 10.1016/j.neucom.2021.04.009. 
+[7]    
+M. Ranjani and P. Supraja, “Classifying the autism and epilepsy disorderbased on EEG signal 
+using deep convolutional neural network (DCNN),”in Proc. Int. Conf. Advance Comput. Innov. 
+Technol. Eng. (ICACITE),Mar. 2021, pp. 880–886
 
 
 
